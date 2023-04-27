@@ -2,7 +2,7 @@ Data Set Name:
 Dry Bean Dataset
 
 Abstract:
-Images of 13,611 grains of 7 different registered dry beans were taken with a high-resolution camera. A total of 16 features; 12 dimensions and 4 shape forms, were obtained from the grains.
+Images of  grains of 2 different registered dry beans were taken with a high-resolution camera. A total of 16 features; 12 dimensions and 4 shape forms, were obtained from the grains.
 
 Source:
 Murat KOKLU
@@ -65,7 +65,7 @@ Attribute Information:
 14.)ShapeFactor2 (SF2)
 15.)ShapeFactor3 (SF3)
 16.)ShapeFactor4 (SF4)
-17.)Class (Seker, Barbunya, Bombay, Cali, Dermosan, Horoz and Sira)
+17.)Class (Seker, Barbunya)
 
 
 
